@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**YamitGC/YamitGC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yamit Garcia, a software developer in training. I'm passionate about understanding the inner workings of software.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on a Riwi proyects, like ATM, systems to organize data, calculators, etc.
+
+- 🌱 I’m currently learning programming and english.
+
+- 👯 I’m looking to collaborate on large international companies.
+
+- 🤔 I’m looking for help on how to learn more about programming logic.
+
+- 💬 Ask me about cars or mechanics things.
+
+- 📫 How to reach me: Ask me in my e-mail yamitgc08@gmail.com
+
+- ⚡ Fun fact: I like to do sports or trying something new
+
