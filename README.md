@@ -1,20 +1,17 @@
-## Hi there 👋
+# Hi, I'm YamitGC 👋
+ 
+Full Stack Web Developer, focused on building robust backend solutions and functional interfaces.
+ 
+## 🛠️ Tech Stack
 
-I'm Yamit Garcia, a software developer in training. I'm passionate about understanding the inner workings of software.
+**Frontend:** HTML · CSS · JavaScript  
 
+**Backend:** Java · Spring Boot · Python · FastAPI  
 
-
-- 🔭 I’m currently working on Riwi projects, like ATM, systems to organize data, calculators, etc.
-
-- 🌱 I’m currently learning programming and English.
-
-- 👯 I’m looking to collaborate on large international companies.
-
-- 🤔 I’m looking for help on how to learn more about programming logic.
-
-- 💬 Ask me about cars or mechanics things.
-
-- 📫 How to reach me: Ask me in my e-mail yamitgc08@gmail.com.
-
-- ⚡ Fun fact: I like to do sports or try something new every month.
-
+**Databases:** SQL
+ 
+## 📫 Contact
+ 
+- GitHub: [@YamitGC](https://github.com/YamitGC)
+- Email: yamitgc08@gmail.com
+ 
